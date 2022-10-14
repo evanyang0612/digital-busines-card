@@ -7,13 +7,13 @@ import github from "../img/GitHub Icon.png";
 export default function Footer() {
   return (
     <div className="footer">
-      <a href="#">
+      <a href="/#">
         <img src={twitter} alt="twitter" />
       </a>
-      <a href="#">
+      <a href="/#">
         <img src={facebook} alt="facebook" />
       </a>
-      <a href="#">
+      <a href="/#">
         <img src={instagram} alt="instagram" />
       </a>
       <a href="https://github.com/evanyang0612">

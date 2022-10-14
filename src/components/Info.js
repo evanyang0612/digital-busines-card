@@ -19,7 +19,7 @@ export default function Info() {
             <span className="button-text--email">Email</span>
           </button>
         </a>
-        <a href="www.linkedin.com/in/evanyang0612">
+        <a href="https://www.linkedin.com/in/evanyang0612/">
           <button className="button button-linkedin">
             <img src={linkedin} alt="linkedin" />
             <span className="button-text--linkedin">Linkedin</span>
